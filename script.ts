@@ -7,5 +7,5 @@ function sum(numArr: number[]): number {
     return summary;
 }
 
-let array: number[] = [7, 5, 4, 7];
+let array: number[] = [7, 5, 4, 7, 1, 0, 5];
 console.log(sum(array));
